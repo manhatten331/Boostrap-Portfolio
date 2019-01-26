@@ -1,0 +1,15 @@
+div.carousel {
+    width: 200px;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+
+ul.nav {
+    background-color: black;
+}
+
+div.col {
+    color: aqua;
+}
+
+
